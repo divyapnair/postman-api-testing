@@ -1,4 +1,4 @@
-# Postman API Testing Sample – ReqRes API
+# Postman-CRUD-API-Test-Suite – ReqRes API
 
 This project demonstrates API testing using Postman.  
 It covers CRUD operations and includes validations such as status codes, schemas, response time checks, and data validations.
